@@ -22,7 +22,7 @@
   <img align="center" alt="py" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
  
   
- <br><br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
   
   
   
