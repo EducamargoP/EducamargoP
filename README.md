@@ -3,7 +3,11 @@
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-camargo-53475b232/)
 
 
+Graduando em Análise e Desenvolvimento de Sistemas (5º semestre), dedico meus estudos ao aprimoramento contínuo em desenvolvimento de software, com ênfase em Front-end e programação com Python. Tenho investido em cursos complementares voltados a tecnologias como HTML, CSS, JavaScript, MySQL e Linux, além de fundamentos em segurança da informação e boas práticas com Git/GitHub.
 
+Meu principal objetivo é atuar como desenvolvedor, aplicando meus conhecimentos em projetos reais, evoluindo tecnicamente e contribuindo ativamente para equipes colaborativas e inovadoras.
+
+Sou uma pessoa dedicada, curiosa e comprometida com a qualidade daquilo que me proponho a fazer. Gosto de transformar desafios em aprendizado e acredito no poder do conhecimento compartilhado para construir soluções eficientes.
 
 
 
