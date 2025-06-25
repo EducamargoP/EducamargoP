@@ -9,6 +9,7 @@ Meu principal objetivo é atuar como desenvolvedor, aplicando meus conhecimentos
 
 Sou uma pessoa dedicada, curiosa e comprometida com a qualidade daquilo que me proponho a fazer. Gosto de transformar desafios em aprendizado e acredito no poder do conhecimento compartilhado para construir soluções eficientes.
 
+Para conhecer minha formação, experiências e trajetória em projetos práticos com foco em desenvolvimento Front-end e Python, acesse meu currículo completo: https://docs.google.com/document/d/16DApH-vRqNuK1XaGa0ZcnqrRrJi3-RztHKtF0N20Y74/edit?usp=drive_link
 
 
 ![EducamargoP
