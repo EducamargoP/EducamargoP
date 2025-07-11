@@ -8,7 +8,7 @@ Sou uma pessoa dedicada, curiosa e comprometida com a qualidade daquilo que me p
 
  Para conhecer minha formação, experiências e trajetória em projetos práticos com foco em desenvolvimento Front-end e Python, acesse meu currículo completo: https://docs.google.com/document/d/16DApH-vRqNuK1XaGa0ZcnqrRrJi3-RztHKtF0N20Y74/edit?usp=drive_link E para 
  
- visualizar meu portfólio de projetos, acesse: https://fascinating-lebkuchen-ffe2a4.netlify.app/
+ visualizar meu portfólio de projetos, acesse: https://eduardocamargop.netlify.app/
  
   
   
