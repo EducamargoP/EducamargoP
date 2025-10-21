@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Eduardo Camargo Paulino 🤚
 
-🎓 Graduado em Análise e Desenvolvimento de Sistemas – 15 de setembro de 2025, dedico meus estudos ao aprimoramento contínuo em desenvolvimento de software, com ênfase em **Front-end** e programação com **Python**.
+🎓 Graduado em Análise e Desenvolvimento de Sistemas – 03 de outubro de 2025, dedico meus estudos ao aprimoramento contínuo em desenvolvimento de software, com ênfase em **Front-end** e programação com **Python**.
 
 📚 Tenho investido em cursos complementares voltados a tecnologias como:
 
