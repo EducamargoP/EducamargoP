@@ -38,13 +38,7 @@
 
 ---
 
-## 📊 Estatísticas e Linguagens
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact&theme=dark)  
 
-
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EducamargoP&show_icons=true&theme=dark)
-
----
 
 ## 🔗 Links
 📌 [Portfólio](https://eduardocamargop.netlify.app/)  
