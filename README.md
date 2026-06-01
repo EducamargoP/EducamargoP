@@ -38,11 +38,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EducamargoP&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact&theme=dark)
-
-
 ## 🔗 Links
 📌 [Portfólio](https://eduardocamargop.netlify.app/)  
 📌 [Currículo pessoal](https://docs.google.com/document/d/16DApH-vRqNuK1XaGa0ZcnqrRrJi3-RztHKtF0N20Y74/edit?tab=t.0)  
