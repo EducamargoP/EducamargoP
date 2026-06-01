@@ -38,6 +38,9 @@
 
 ---
 
+## 📊 Estatísticas do GitHub
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EducamargoP&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact&theme=dark)
 
 
 ## 🔗 Links
