@@ -15,6 +15,8 @@
 - 🐬 MySQL  
 - 🐘 PostgreSQL  
 - 📊 Grafana e Prometheus  
+- 🐘 PHP  
+
 
 ---
 
