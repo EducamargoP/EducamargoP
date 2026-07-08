@@ -42,20 +42,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-### 🔹 Estatísticas gerais
-![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EducamargoP&show_icons=true&theme=radical)
-
-### 🔹 Linguagens mais usadas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact&theme=radical)
-
-### 🔹 Contribuições (Snake Animation)
-![Snake animation](https://github.com/EducamargoP/EducamargoP/blob/output/github-contribution-grid-snake.svg)
-
-
----
-
 ## 🔗 Links
 📌 [Portfólio](https://eduardocamargop.netlify.app/)  
 📌 [Currículo pessoal](https://docs.google.com/document/d/16DApH-vRqNuK1XaGa0ZcnqrRrJi3-RztHKtF0N20Y74/edit?tab=t.0)  
