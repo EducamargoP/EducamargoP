@@ -45,13 +45,14 @@
 ## 📊 Estatísticas do GitHub
 
 ### 🔹 Estatísticas gerais
-[![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EducamargoP&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Eduardo GitHub stats](https://github-readme-stats.vercel.app/api?username=EducamargoP&show_icons=true&theme=radical)
 
 ### 🔹 Linguagens mais usadas
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EducamargoP&layout=compact&theme=radical)
 
 ### 🔹 Contribuições (Snake Animation)
 ![Snake animation](https://github.com/EducamargoP/EducamargoP/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 
