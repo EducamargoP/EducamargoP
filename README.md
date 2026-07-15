@@ -7,16 +7,11 @@
 ---
 
 ## 🧰 Tecnologias em que estou trabalhando
-- 🌐 [HTML](ca://s?q=Projetos_em_HTML)  
-- 🎨 [CSS](ca://s?q=Projetos_em_CSS)  
-- ⚙️ [JavaScript](ca://s?q=Projetos_em_JavaScript)  
-- 🐍 [Python](ca://s?q=Projetos_em_Python)  
-- 📊 [NumPy](ca://s?q=Aprender_NumPy) e [Pandas](ca://s?q=Aprender_Pandas)  
-- 🐧 [Linux](ca://s?q=Projetos_em_Linux)  
-- 🐬 [MySQL](ca://s?q=Projetos_em_MySQL)  
-- 🐘 [PostgreSQL](ca://s?q=Projetos_em_PostgreSQL)  
-- 📈 [Grafana](ca://s?q=Projetos_em_Grafana) e [Prometheus](ca://s?q=Projetos_em_Prometheus)  
-- 🐘 [PHP](ca://s?q=Projetos_em_PHP)  
+## 🤖 Linguagens e Tecnologias
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 
 
 ---
