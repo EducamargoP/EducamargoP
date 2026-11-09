@@ -1,60 +1,42 @@
-# 👋 Olá! Eu sou Eduardo Camargo Paulino
 
-🎓 Graduando em **Análise e Desenvolvimento de Sistemas** (UniFECAF – conclusão em 2025).  
-💻 Focado em **Desenvolvimento Python**, **ambientes Linux** e **Segurança da Informação** (Pentest e SOC).  
-🚀 Busco aplicar meus conhecimentos em projetos reais, evoluir tecnicamente e contribuir em equipes colaborativas e inovadoras.
+👋 Olá! Eu sou Eduardo Camargo Paulino
+🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas (UniFECAF).
 
----
+💻 Conhecimentos em Desenvolvimento Web, Python, Linux, Banco de Dados e Monitoramento de Ambientes.
 
-## 🧰 Tecnologias em que estou trabalhando
+📚 Atualmente ampliando meus conhecimentos em observabilidade, infraestrutura e monitoramento com Grafana, zabbix, Prometheus e Linux.
 
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="40" height="40" style="margin: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" style="margin: 5px;"/>
-</p>
+🚀 Busco minha primeira oportunidade na área de Tecnologia da Informação como Assistente de TI, Analista de Suporte Júnior, Operador de Monitoramento ou Desenvolvedor Júnior.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧰 Tecnologias e Ferramentas
 
+📚 Cursos e Formação Complementar
+Front-end Development – HTML, CSS, JavaScript, MySQL e Bootstrap 4 (Udemy – 80h)
+Python – Curso em Vídeo (120h)
+Certificação NSE 1 Fortinet
+Linux Essencial – Future Cursos (80h)
+Segurança da Informação e Pentest – Udemy
+Boas práticas com Git/GitHub
+Observabilidade com Grafana e Prometheus
+PHP 8 Moderno
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🧠 Competências
+Desenvolvimento Web com HTML, CSS e JavaScript
+Python para automação, scripts e projetos pessoais
+Linux e fundamentos de infraestrutura
+Banco de Dados relacionais (MySQL e PostgreSQL)
+Git e GitHub para versionamento
+Monitoramento e Observabilidade de ambientes
+Fundamentos de Segurança da Informação
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🎯 Objetivo Profissional
+Atuar como Assistente de TI, Analista de Suporte Júnior, Operador de Monitoramento ou Desenvolvedor Júnior, aplicando conhecimentos em Linux, Python, desenvolvimento web, monitoramento e suporte a ambientes tecnológicos.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔗 Links
+📌 Portfólio: https://eduardocamargop.netlify.app
 
+📌 LinkedIn: https://linkedin.com/in/eduardo-camargo-paulino-53475b232
 
+📌 Currículo: https://docs.google.com/document/d/16DApH-vRqNuK1XaGa0ZcnqrRrJi3-RztHKtF0N20Y74
 
-
-
----
-
-## 📚 Cursos e Formação Complementar
-- **Front-end Development - HTML, CSS, JavaScript, MYSQL, Bootstrap 4 (Udemy - 80h)**
-- **Python - curso em Vídeo (120h)**
-- **Certificação NSE 1 Fortinet** – Fortinet – (4h)
-- **Linux Essencial - Future Cursos (80h)**
-- **Segurança da Informação e Pentester - Udemy (40h)**
-- **Boas práticas com Git/GitHub** – Udemy – (3h)  
-- **Observabilidade com Grafana e Prometheus (cursando)**
-- **PHP8 Moderno (40h – cursando)**
-
----
-
-## 🧠 Competências
-- Desenvolvimento de software com Python e Web  
-- Administração de ambientes Linux e infraestrutura  
-- Bancos de dados relacionais (MySQL e PostgreSQL)  
-- Segurança da Informação: análise de vulnerabilidades e pentest  
-- Monitoramento e observabilidade de sistemas  
-
----
-
-## 🔗 Links
-📌 [Portfólio](https://eduardocamargop.netlify.app/)  
-📌 [Currículo pessoal](https://docs.google.com/document/d/16DApH-vRqNuK1XaGa0ZcnqrRrJi3-RztHKtF0N20Y74/edit?tab=t.0)  
-
----
-
-💬 Sou dedicado, curioso e comprometido com qualidade. Gosto de transformar desafios em aprendizado e acredito no poder do conhecimento compartilhado para construir soluções eficientes.
+💬 Sou dedicado, curioso e comprometido com aprendizado contínuo. Gosto de resolver problemas, aprender novas tecnologias e transformar conhecimento em soluções práticas.
